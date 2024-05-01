@@ -23,7 +23,7 @@
 ## 🔧 My Tech Stack
 
 - **Platforms**: Desktop App Development
-- **Framework**: Qt C++/Python | Qt Widgets | Qt Quick/QML
+- **Framework**: Qt C++ | Qt Widgets | Qt Quick/QML
 - **Languages**: C, C++, Python, Javascript
 - **UI/UX Design**: Qt Framework, QML, Figma
 - **Operating Systems**: Linux, Windows
